@@ -64,4 +64,7 @@ const TodoApp = () => {
 export default TodoApp;
 ```
 ## Output:-
-![git](./op.png)
+![image](https://github.com/Kirupanandhan/Develop-a-complete-Todo-application-with-all-features/assets/94386222/77d23c82-bcdc-4314-a8f5-08a05899435d)
+## RESULT:
+React app to develop a complete Todo application with all features has been created and output has been verified.
+
